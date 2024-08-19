@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url(https://img.freepik.com/free-vector/abstract-black-shapes-background-design_1017-31904.jpg?w=1380&t=st=1724047940~exp=1724048540~hmac=8e165535de8041d88d8b467c3fd8ac4589c277995261a650649f6a0fe7242d19    ) no-repeat center;
+    background: url(https://img.freepik.com/free-vector/black-background-with-white-line-that-says-white-it_483537-4192.jpg?t=st=1724085603~exp=1724089203~hmac=11184dd2046c55aceec1467ed89040732b4d7c56c6d3a52ba61b8f534aaf289f&w=1380) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
